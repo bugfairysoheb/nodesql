@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-shadow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "store.js",
+			"settings":
+			{
+				"buffer_size": 159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/tutorial-node-database/store.js",
+		"/Users/admin/code/forum/.ebextensions/init.config",
+		"/Users/admin/code/forum/init.config",
+		"/Users/admin/Downloads/CodeAlong 4/data.js",
+		"/Users/admin/Downloads/CodeAlong 4/circles.html",
+		"/Users/admin/Desktop/Web Dev/patatapme/colours.css",
+		"/Users/admin/Desktop/Web Dev/patatapme/colors.html",
+		"/Users/admin/Desktop/Web Dev/todolist/todos.js",
+		"/Users/admin/Desktop/Web Dev/todolist/todos.css",
+		"/Users/admin/Desktop/Web Dev/todolist/Todolist.html",
+		"/Users/admin/Desktop/Web Dev/colortoggle/colortoggleexcercise.html",
+		"/Users/admin/Desktop/Web Dev/Array/array.js",
+		"/Users/admin/bugfairysoheb.github.io/index.html",
+		"/Users/admin/sebo.github.io/index.html",
+		"/Users/admin/Desktop/Web Dev/scorekeeper/scorekeeper.js",
+		"/Users/admin/Desktop/Web Dev/scorekeeper/scorekeeper.html",
+		"/Users/admin/Desktop/Web Dev/colorexcercise.html",
+		"/Users/admin/Desktop/Web Dev/array.js",
+		"/Users/admin/Desktop/selectors.html",
+		"/Users/admin/Downloads/stress/index3.html",
+		"/Users/admin/Downloads/stress/index.html",
+		"/Users/admin/Downloads/style.css",
+		"/Users/admin/Downloads/Welcome.php",
+		"/Users/admin/Downloads/welcome_result.php",
+		"/Users/admin/Downloads/stress/index2.html",
+		"/Users/admin/Downloads/MY_Model.php",
+		"/Users/admin/Downloads/style (1).css",
+		"/Users/admin/Desktop/Image gallery.html",
+		"/Users/admin/Desktop/Purrfect.css",
+		"/Users/admin/Desktop/navbar.html",
+		"/Users/admin/Desktop/purrfect match.html",
+		"/Users/admin/Downloads/PurrfectMatch/index.html",
+		"/Users/admin/Downloads/PurrfectMatch/app.css",
+		"/Users/admin/Desktop/gallery.css",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "store.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodesql.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
